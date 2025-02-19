@@ -12,7 +12,7 @@
     <p>🔍 Thrive at problem-solving and embracing new technologies</p>
     <p>🤝 Strong communicator, adept at both teamwork and independent work</p>
     <p>🌱 Seeking exciting opportunities to contribute & grow</p>
-    <p>✉️ Let's connect! Feel free to reach me at <a href="mailto:jahnavi.suram01@gmail.com">jahnavi.suram01@gmail.com</a></p>
+    <p>✉️ Let's connect! Feel free to reach me at <a href="mailto:jahnavi.suram01@gmail.com">sjahnavi369@gmail.com</a></p>
   </div>
 </body>
 </html>
